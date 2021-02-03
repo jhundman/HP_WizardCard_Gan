@@ -1,0 +1,1 @@
+Data2 contains the images but in jpg format due to transparent background of the png images in the data folder.
